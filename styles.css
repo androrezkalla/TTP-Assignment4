@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(to bottom, #f1f1f1, #dcdcdc);
+    background: linear-gradient(to bottom, #c50c0c, #807d7d);
   }
   
   header {
@@ -23,7 +23,6 @@ body {
   .poster {
     margin: 20px;
     padding: 20px;
-    border: 2px solid #ccc;
     border-radius: 5px;
     text-align: center;
   }
